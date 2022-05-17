@@ -56,3 +56,4 @@ def candidates_page(skills):
 
 
 app.run()
+
